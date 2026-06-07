@@ -46,6 +46,11 @@ Settings -> Appearance -> Pets -> Refresh -> Select 奶小龙 -> Wake Pet
 
 下载新版 Release，重新运行 `install.ps1` 即可。脚本会在覆盖前保留旧版本备份。
 
+## 版本
+
+- `v1.1.0`：重做 idle / wave / jump，待机更自然，鼠标滑过反馈更明确。
+- `v1.0.0`：首个公开版本。
+
 ## 卸载
 
 如果是用 npx 安装的，可以运行：

@@ -1,7 +1,7 @@
 {
   "name": "nai-xiaolong-codex-pet",
-  "version": "1.0.0",
-  "description": "Codex desktop pet: 奶小龙",
+  "version": "1.1.0",
+  "description": "A cute baby dragon desktop pet for Codex.",
   "license": "MIT",
   "author": "Andonis75",
   "type": "commonjs",
