@@ -1,4 +1,5 @@
 *.zip
+*.tgz
 *.bak
 *.tmp
 node_modules/
