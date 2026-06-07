@@ -1,0 +1,35 @@
+{
+  "name": "nai-xiaolong-codex-pet",
+  "version": "1.0.0",
+  "description": "Codex desktop pet: 奶小龙",
+  "license": "MIT",
+  "author": "Andonis75",
+  "type": "commonjs",
+  "bin": {
+    "nai-xiaolong-codex-pet": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "pet",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andonis75/nai-xiaolong-codex-pet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andonis75/nai-xiaolong-codex-pet/issues"
+  },
+  "homepage": "https://github.com/Andonis75/nai-xiaolong-codex-pet#readme",
+  "keywords": [
+    "codex",
+    "codex-pet",
+    "desktop-pet",
+    "pet",
+    "nai-xiaolong"
+  ],
+  "scripts": {
+    "pack:check": "npm pack --dry-run"
+  }
+}

@@ -8,6 +8,22 @@
 
 ## 安装
 
+### 方式一：npx
+
+如果你安装了 Node.js，可以直接运行：
+
+```bash
+npx nai-xiaolong-codex-pet install
+```
+
+然后打开 Codex：
+
+```text
+Settings -> Appearance -> Pets -> Refresh -> Select 奶小龙 -> Wake Pet
+```
+
+### 方式二：下载 zip
+
 下载 Release 里的 `nai-xiaolong-codex-pet-v1.0.0.zip`，解压后在 PowerShell 里运行：
 
 ```powershell
@@ -31,6 +47,12 @@ Settings -> Appearance -> Pets -> Refresh -> Select 奶小龙 -> Wake Pet
 下载新版 Release，重新运行 `install.ps1` 即可。脚本会在覆盖前保留旧版本备份。
 
 ## 卸载
+
+如果是用 npx 安装的，可以运行：
+
+```bash
+npx nai-xiaolong-codex-pet uninstall
+```
 
 在解压目录运行：
 
