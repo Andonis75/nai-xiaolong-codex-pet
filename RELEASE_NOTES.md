@@ -4,8 +4,15 @@
 
 - 添加奶小龙 Codex 自定义宠物。
 - 包含 PowerShell 一键安装脚本。
+- 支持 npm / npx 安装：`npx nai-xiaolong-codex-pet install`。
 - 包含保守卸载脚本，卸载时保留备份。
 - 图集格式：`1536x1872`，`8x9`，单格 `192x208`。
+
+推荐安装方式：
+
+```bash
+npx nai-xiaolong-codex-pet install
+```
 
 安装方式：
 
